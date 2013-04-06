@@ -10,4 +10,4 @@ For example /home/user/.drush/idi.drush.inc
 
 I wrote this script in bus, in ride to work and back to home :D
 
-Статья на русском языке http://badscript.net/node/54
+Статья на русском языке http://www.badscript.net/blogpost/drush-komanda-dlya-mgnovennogo-podnyatiya-hosta-apache-i-ustanovki-drupala-78
